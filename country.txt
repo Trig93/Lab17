@@ -1,0 +1,2 @@
+null	0
+Africa	20
